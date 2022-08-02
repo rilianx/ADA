@@ -1,3 +1,5 @@
+## Guía para trabajar en Informe 1 (InsertionSort)
+
 1. Implemente la función InsertionSort.
     * Incorporar un auxiliar para obtener la media de las veces que el algoritmo debe retroceder al realizar el ordenamiento.  
     * Incorpore la opción **verbose** para poder ver su ejecución paso a paso de **manera amigable e intuitiva**.
