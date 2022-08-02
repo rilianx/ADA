@@ -2,7 +2,7 @@
 
 Los informes consiste en un documento [colab](https://colab.research.google.com/) con **descripción** y **análisis** de un algoritmo específico además de **implementación del algoritmo** junto a **experimentos comparativos**.
 
-Los criterios para evaluar los informes son los siguientes (**12 ptos** en total):
+Los criterios para evaluar los informes son los siguientes (**15 ptos** en total):
 
 ### **Descripción del problema (1 pto).**
 
@@ -51,3 +51,7 @@ Además debe estar **organizado por secciones** que permitan una **fácil y amen
 Los ejemplos y las explicaciones **deben ser claros** y permitir a un lector **no experto** un fácil entendimiento del algoritmo, análisis y resultados.
 
 Aquí puede ver un ejemplo: [Informe: BubbleSort](https://github.com/rilianx/ADA/blob/main/Informe%200.%20BubbleSort.ipynb).
+
+### Avance pre-ayudantía (3 ptos)
+
+En la ayudantía se revisará que tenga las secciones de **descripción del problema y descripción del algoritmo** terminadas o muy avanzadas.
