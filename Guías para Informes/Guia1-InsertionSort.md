@@ -7,3 +7,4 @@
 4. Realice experimentos para:  
     * Comparar la cantidad de comparaciones realizadas en el mejor y peor caso.
     * Demostrar que sucede cuando se utiliza en un arreglo casi completamente ordenado.
+    * Comparar los tiempos de ejecución con el algoritmo [BubbleSort](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/Ejemplo-Informe-BubbleSort.ipynb)
