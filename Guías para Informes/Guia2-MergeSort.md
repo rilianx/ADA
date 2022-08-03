@@ -14,3 +14,7 @@
     - comparar el número de comparaciones realizadas experimentalmente con el **mejor** y **peor caso** teóricos.
     - comparar el algoritmo MergeSort, con InsertionSort.
     - recuerde **analizar** y **explicar** los resultados obtenidos.
+
+Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
+
+Al terminar su informe súbalo a su repositorio Github **ADA-Informes** en su cuenta personal.
