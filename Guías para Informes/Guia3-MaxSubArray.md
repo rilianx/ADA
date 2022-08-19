@@ -8,10 +8,12 @@
     - Incorpore la opción **verbose** para poder ver su ejecución paso a paso de **manera amigable e intuitiva**.
 3. Demuestre que la función MaxSubArrayMid es correcta.
 4. Demuestre que el algortmo MaxSubArray es correcto utilizando inducción.
-5. Analice e indique el tiempo de ejecución del algortmo.
+5. Analice e indique el tiempo de ejecución del algoritmo. Identifique el peor y mejor caso.
 6. Realice experimentos para:
     - Comparar implementacion realizada con un MaxSubArray implementado con el Algoritmo de Kadane.
     - Explique y analice los resultados obtenidos.
+
+Esta es una guía. Puede incluir análisis y/o experimentos adicionales.
 
 [Material informativo (ingles)](https://kgardner.people.amherst.edu/courses/f18/cosc311/handouts/lss.pdf)
 
