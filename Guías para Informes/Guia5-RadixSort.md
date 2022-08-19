@@ -7,7 +7,7 @@
     * Utilice induccion para probar la correctitud de CountingSort.
 4. Analice el tiempo de ejecución del algoritmo.
 5. Realice experimentos para:  
-    * Comparar los casos dados para RadixSort con BucketSort.
+    * Compare con CountingSort y BucketSort para ordenar números enteros.
     * Invente un experimento.
     * Recuerde **analizar** y **explicar** todos los resultados obtenidos.
 
