@@ -16,6 +16,7 @@
 
 Esta es una guía. Puede incluir análisis y experimentos adicionales. Sean creativos!
 
+[Algoritmo de Kadane (GeeksForGeeks)](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 [Material informativo (ingles)](https://kgardner.people.amherst.edu/courses/f18/cosc311/handouts/lss.pdf)
 
 Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
