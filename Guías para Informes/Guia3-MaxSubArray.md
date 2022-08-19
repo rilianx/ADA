@@ -1,15 +1,17 @@
 # Guía para preparar Informe 3
 
-1. Implemente la funcion MaxSubArray utilizando el enfoque divide y vencerás.
-    - Caso 1: Cuando el subarreglo maximo se encuentra completamente en la mitad izquierda del arreglo.
-    - Caso 2: Cuando el subarreglo maximo se encuentra completamente en la mitad derecha del arreglo.
-    - Caso 3: Cuando el subarreglo maximo se encuentra dividido entre las dos mitades.
+1. Implemente la función MaxSubArrayMid que permita encontrar el **sub-arreglo máximo** que contenga el elemento mid de un arreglo.
+
+![image](https://i.imgur.com/wdVYBlk.png)
+
+2. Implemente la función recursiva MaxSubArray, para resolver el problema del **sub-arreglo máximo**, utilizando el enfoque **divide y vencerás**.
     - Incorpore la opción **verbose** para poder ver su ejecución paso a paso de **manera amigable e intuitiva**.
-2. Explique por que el algortmo es correcto.
-    - Utilizando induccion.
-3. Analizar el tiempo de ejecución del algortmo.
-4. Realice experimentos para:
+3. Demuestre que la función MaxSubArrayMid es correcta.
+4. Demuestre que el algortmo MaxSubArray es correcto utilizando inducción.
+5. Analice e indique el tiempo de ejecución del algortmo.
+6. Realice experimentos para:
     - Comparar implementacion realizada con un MaxSubArray implementado con el Algoritmo de Kadane.
+    - Explique y analice los resultados obtenidos.
 
 [Material informativo (ingles)](https://kgardner.people.amherst.edu/courses/f18/cosc311/handouts/lss.pdf)
 
