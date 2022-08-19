@@ -17,7 +17,7 @@
     - comparar el algoritmo MergeSort, con InsertionSort.
     - recuerde **analizar** y **explicar** los resultados obtenidos.
 
-Esta es una guía. Puede incluir análisis y/o experimentos adicionales.
+Esta es una guía. Puede incluir análisis y/o experimentos adicionales. Sean creativos!
 
 Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
 
