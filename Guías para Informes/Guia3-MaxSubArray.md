@@ -13,7 +13,7 @@
     - Comparar implementacion realizada con un MaxSubArray implementado con el Algoritmo de Kadane.
     - Explique y analice los resultados obtenidos.
 
-Esta es una guía. Puede incluir análisis y/o experimentos adicionales.
+Esta es una guía. Puede incluir análisis y experimentos adicionales. Sean creativos!
 
 [Material informativo (ingles)](https://kgardner.people.amherst.edu/courses/f18/cosc311/handouts/lss.pdf)
 
