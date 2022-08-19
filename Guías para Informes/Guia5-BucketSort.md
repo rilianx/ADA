@@ -10,7 +10,7 @@
 3. Analice el tiempo de ejecución del algoritmo.
 
 5. Realice experimentos para:  
-    * Comparar con RadixSort al ordenar constantes de punto flotante.
+    * Compare con RadixSort y CountingSort para ordenar números enteros.
     * Invente un experimento.
     * Recuerde analizar y explicar los resultados obtenidos.
 
