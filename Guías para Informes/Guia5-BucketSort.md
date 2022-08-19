@@ -8,6 +8,8 @@
 3. Analice el tiempo de ejecución del algoritmo.
 4. Realice experimentos para:  
     * Comparar con RadixSort al ordenar constantes de punto flotante.
+    * Invente un experimento.
+    * Recuerde analizar y explicar los resultados obtenidos.
 
 
 Esta es una guía. Puede incluir análisis y experimentos adicionales. Sean creativos!
