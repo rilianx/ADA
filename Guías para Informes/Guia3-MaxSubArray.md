@@ -11,6 +11,7 @@
 5. Analice e indique el tiempo de ejecución del algoritmo. Identifique el peor y mejor caso.
 6. Realice experimentos para:
     - Comparar implementacion realizada con un MaxSubArray implementado con el Algoritmo de Kadane.
+    - Invente un experimento.
     - Explique y analice los resultados obtenidos.
 
 Esta es una guía. Puede incluir análisis y experimentos adicionales. Sean creativos!
