@@ -54,4 +54,4 @@ Los ejemplos y las explicaciones **deben ser claros** y permitir a un lector **n
 
 En la ayudantía se revisará que tenga las secciones de **descripción del problema y descripción del algoritmo** terminadas o muy avanzadas.
 
-Aquí puede ver un ejemplo: [Informe: BubbleSort](https://github.com/rilianx/ADA/blob/main/Informe%200.%20BubbleSort.ipynb).
+Aquí puede ver un ejemplo: [Informe: BubbleSort](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/Ejemplo-Informe-BubbleSort.ipynb).
