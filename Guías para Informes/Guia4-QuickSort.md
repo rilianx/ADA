@@ -12,9 +12,17 @@
 3. Explique por qué el algoritmo es correcto (prueba de correctitud). 
     1. Utilice una **propiedad invariante de bucle** para probar la correctitud de la función **Partition**.
     2. Utilice **inducción** para probar la correctitud del **QuickSort**.
+   
 4. Analice el **tiempo de ejecución** del algoritmo.
-5. Realice experimentos para:
+
+6. Realice experimentos para:
     - comparar el número de comparaciones realizadas experimentalmente con el **mejor** y **peor caso** teóricos.
     - comparar el algoritmo QuickSort, con MergeSort.
     - comparar el rendimiento del algoritmo al modificar la selección del pivote (punto 1).
     - recuerde **analizar** y **explicar** todos los resultados obtenidos.
+
+Esta es una guía. Puede incluir análisis y experimentos adicionales. Sean creativos!
+
+Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
+
+Al terminar su informe súbalo a su repositorio Github **ADA-Informes** en su cuenta personal.
