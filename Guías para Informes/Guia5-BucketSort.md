@@ -10,7 +10,7 @@
 3. Analice el tiempo de ejecución del algoritmo.
 
 5. Realice experimentos para:  
-    * Compare con RadixSort y CountingSort para ordenar números enteros.
+    * Compare con RadixSort y BucketSort para ordenar números enteros.
     * Invente un experimento.
     * Recuerde analizar y explicar los resultados obtenidos.
 
