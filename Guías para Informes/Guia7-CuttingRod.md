@@ -14,7 +14,7 @@
 
 4. Analice el **tiempo de ejecución** del algoritmo.
 5. Realice experimentos para:
-    - Comparar tu "Naive Implementation" con la implementacion realizada con el acercamiento bottom-up.
+    - Comparar tu "Naive Implementation" con la implementacion realizada con el acercamiento bottom-up en 3 casos random distintos.
 
 Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
 
