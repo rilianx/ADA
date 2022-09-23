@@ -1,4 +1,4 @@
-##Guia para trabajar en Informe 7 (Cutting a Rod)
+## Guia para trabajar en Informe 7 (Cutting a Rod)
 1. Implemente la funcion **CutRod**.
     - Comenzar con una **Naive Implementation** (implementacion realizada a fuerza bruta, utilizando atajos para mas simplicidad).
     - Luego realizar implementacion utilizando un acercamiento bottom-up.
