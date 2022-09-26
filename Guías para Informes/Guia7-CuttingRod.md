@@ -3,6 +3,7 @@
 1. Implemente un algoritmo recursivo para resolver el problema del **corte de varillas**. 
    - El algoritmo debe retornar los cortes necesarios y el retorno máximo posible.
    - Cuente la cantidad de llamadas recursivas que realiza el algoritmo.
+   - En la descripción del algoritmo, recuerde explicar la **subestructura óptima** del problema y la función recursiva para el **retorno máximo**.
 
 2. Implemente un acercamiento **bottom-up** (programación dinámica) para resolver el problema del **corte de varillas**. 
    - El algoritmo debe retornar los cortes necesarios y el retorno máximo posible.
