@@ -13,11 +13,12 @@
 
 4. Incorpore la opción **verbose** en ambos algoritmos para poder ver, de **manera amigable e intuitiva**, su ejecución paso a paso.
 
-5. Demuestre por qué el algoritmo bottom-up es **correcto** (es decir, calcula el árbol con mínimo costo).
+5. Demuestre por qué el algoritmo bottom-up es **correcto** (es decir, calcula el árbol con mínimo costo). Para demostrar que el algoritmo es correcto debe:
 
-    Para demostrar que el algoritmo es correcto debe:
     a. Demostrar/explicar que resolver el problema original es equivalente a resolver una serie de subproblemas de menor tamaño y combinar sus resultados (subestructura óptima)
+    
     b. Definir una función recurrente para el valor óptimo, usando el resultado del punto a.
+    
     c. Demostrar (por inducción o propiedad de bucle invariante) que el algoritmo **bottom-up** resuelve cada subproblema en base a la función recurrente y los valores obtenidos por subproblemas más pequeños resueltos con anterioridad.
 
 6. Analice el **tiempo de ejecución** de ambos algoritmos.
