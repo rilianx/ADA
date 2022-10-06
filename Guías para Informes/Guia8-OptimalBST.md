@@ -10,19 +10,21 @@
 
 3. 	Incorpore la función opción **visualize** de tipo boolean en ambos algoritmos.
 	- En caso de que su valor sea True, se deberá mostrar visualmente el árbol óptimo encontrado, haciendo uso de librerías externas.
-	- La opción deberá ser True para **al menos** 1 instancia en cada algoritmo.
 
 4. Incorpore la opción **verbose** en ambos algoritmos para poder ver, de **manera amigable e intuitiva**, su ejecución paso a paso.
 
-4. Demuestre por qué el algoritmo bottom-up es **correcto** (es decir, calcula el retorno mínimo).
-	- Puede usar inducción, establecer un caso base y para las iteraciones siguientes asumir que los problemas más pequeños ya fueron resueltos correctamente.
+5. Demuestre por qué el algoritmo bottom-up es **correcto** (es decir, calcula el árbol con mínimo costo).
+    Para demostrar que el algoritmo de programación dinámica es correcto debe:
+    a. Demostrar/explicar que resolver el problema original es equivalente a resolver una serie de subproblemas de menor tamaño y combinar sus resultados (subestructura óptima)
+    b. Definir una función recurrente para el valor óptimo, usando el resultado del punto a.
+    c. Demostrar (por inducción o propiedad de bucle invariante) que el algoritmo **bottom-up** resuelve cada subproblema en base a la función recurrente y los valores obtenidos por subproblemas más pequeños resueltos con anterioridad.
 
-5. Analice el **tiempo de ejecución** de ambos algoritmos.
+6. Analice el **tiempo de ejecución** de ambos algoritmos.
 	- Defina una función matemática para describir la cantidad de subproblemas que se deben resolver en función del tamaño de entrada.
 	- ¿Cuál es el tiempo de ejecución de cada subproblema? ¿Cuál es el tiempo de ejecución del algoritmo?
 	- Indique y explique la complejidad espacial del algoritmo (cantidad de memoria requerida).
 
-6. Realice experimentos para:
+7. Realice experimentos para:
 	- Observar lo que ocurre con el tiempo de ambos algoritmos a medida que crece el tamaño del problema.
 	- Observar lo que ocurre con el tiempo de ambos algoritmos y con el costo esperado calculado, si es que seleccionamos al elemento con mayor probabilidad de ser buscado como raiz del árbol (no consideramos otros elementos como raíz). Comentar si vale la pena realizar este cambio para problemas con *n* grande.
 
