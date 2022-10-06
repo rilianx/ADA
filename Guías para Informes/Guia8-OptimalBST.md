@@ -17,9 +17,9 @@
 
     a. Demostrar/explicar que resolver el problema original es equivalente a resolver una serie de subproblemas de menor tamaño y combinar sus resultados (subestructura óptima)
     
-    b. Definir una función recurrente para el valor óptimo, usando el resultado del punto a.
+    b. Definir una función recurrente para el valor óptimo del problema en base a lo mostrado en el punto a.
     
-    c. Demostrar (por inducción o propiedad de bucle invariante) que el algoritmo **bottom-up** resuelve cada subproblema en base a la función recurrente y los valores obtenidos por subproblemas más pequeños resueltos con anterioridad.
+    c. Demostrar (por inducción o propiedad de bucle invariante) que el algoritmo **bottom-up** resuelve cada subproblema en base a la función recurrente y a los valores óptimos de los subproblemas más pequeños.
 
 6. Analice el **tiempo de ejecución** de ambos algoritmos.
 	- Defina una función matemática para describir la cantidad de subproblemas que se deben resolver en función del tamaño de entrada.
