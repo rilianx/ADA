@@ -9,7 +9,7 @@
 
 3. Incorpore la opción **verbose** en ambos algoritmos para poder ver su ejecución paso a paso de **manera amigable e intuitiva**.
 
-4. Muestre que el algoritmo de **programación es correcto**. ¿Por qué el algoritmo greedy no lo es?
+4. Muestre que el algoritmo de **programación dinámica es correcto**. ¿Por qué el algoritmo greedy no lo es?
 
 5. Analice el tiempo de ejecución de ambos algoritmos.
 
