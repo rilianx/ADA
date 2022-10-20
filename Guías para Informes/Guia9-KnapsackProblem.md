@@ -2,7 +2,7 @@
 
 1. Implemente un algoritmo usando **programación dinámica** (acercamiento bottom-up) para resolver el problema de la mochila.
    - Recuerde identificar una estructura óptima para el problema y definir la **función de recursión** correspondiente.
-   - Cuente la cantidad de recursiones que debe realizar el algoritmo.
+   - Cuente la cantidad de subproblemas que debe resolver el algoritmo.
 
 2. Implemente un algoritmo **greedy** para resolver el problema.
    - Cuente la cantidad de iteraciones que debe realizar el algoritmo.
@@ -15,7 +15,7 @@
 
 6. Realice experimentos para:
     - Comparar los tiempos de ambos algoritmos en función del tamaño de entrada.
-    - La cantidad de iteraciones/recursiones que realizan los algoritmos en función del tamaño de entrada.
+    - La cantidad de iteraciones/subproblemas que realizan los algoritmos en función del tamaño de entrada.
     - El valor de los items alcanzado por ambos algoritmos (puede hacer **boxplots** para distintos tamaños de problemas, por ejemplo 5, 10, 20 y 50).
 
 [Material en GeeksforGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
