@@ -50,4 +50,4 @@ def knapsack_instance_generator(N):
 
 W, val, wt = knapsack_instance_generator(10)
 ```
-El algoritmo recibe el tamño del problema `N` y retorna la capacidad (W), el arreglo de valores (val) y el arreglo de pesos (wt).
+El algoritmo recibe el tamño del problema `N` y retorna la capacidad `W`, el arreglo de valores `val` y el arreglo de pesos `wt`.
