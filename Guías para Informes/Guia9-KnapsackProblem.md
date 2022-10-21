@@ -23,3 +23,31 @@
 Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
 
 Al terminar su informe súbalo a su repositorio Github **ADA-Informes** en su cuenta personal.
+
+### Generación de instancias
+
+Puede utilizar el siguiente código par generar instancias.
+```py
+import random
+
+def knapsack_instance_generator(N):
+  val = []
+  wt = []
+  prev_v = 0
+  prev_w = 0
+  for i in range(N):
+    v = random.randint(1, 100)
+    val.append(prev_v + v)
+    prev_v += v
+    
+    w = random.randint(1, 10)
+    wt.append(prev_w + w)
+    if (v >= 50):
+        prev_w += w
+
+  W = int(sum(wt) / 2)
+  return W, val, wt
+
+W, val, wt = knapsack_instance_generator(10)
+```
+El algoritmo recibe el tamño del problema `N` y retorna la capacidad (W), el arreglo de valores (val) y el arreglo de pesos (wt).
