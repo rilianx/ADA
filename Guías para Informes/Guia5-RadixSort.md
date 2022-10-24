@@ -1,4 +1,4 @@
-# Guía para preparar Informe 5
+# Guía para preparar Informe 5 (Radix Sort)
 
 1. Implemente la función CountingSort.
     * Incorporar la opción **verbose** para poder ver su ejecución paso a paso de **manera amigable e intuitiva**.

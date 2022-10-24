@@ -1,4 +1,4 @@
-# Guía para preparar Informe 3
+# Guía para preparar Informe 3 (Max Sub Array)
 
 1. En la descripción del problema, incluya algunas aplicaciones del mismo.
 

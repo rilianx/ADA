@@ -1,4 +1,4 @@
-## Guia para trabajar en Informe 10
+## Guia para trabajar en Informe 10 (Knapsack Problem)
 
 1. Implemente un algoritmo usando **programación dinámica** (acercamiento bottom-up) para resolver el problema de la mochila.
    - Recuerde identificar una estructura óptima para el problema y definir la **función de recursión** correspondiente.

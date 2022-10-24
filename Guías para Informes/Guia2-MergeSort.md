@@ -1,4 +1,4 @@
-## Guía para trabajar en Informe 2 (MergeSort)
+## Guía para trabajar en Informe 2 (Merge Sort)
 1. Implemente la función **Merge**.
     - Incorpore un contador para el **número de comparaciones** que realiza la función.
 2. Implemente el algoritmo **MergeSort** (recursivo). 

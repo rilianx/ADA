@@ -1,4 +1,4 @@
-## Guía para trabajar en Informe 4 (QuickSort)
+## Guía para trabajar en Informe 4 (Quick Sort)
 1. Implemente la función **Partition**, de cada una de las siguientes maneras:
     - Seleccionando como pivote el último elemento del arreglo.
     - Seleccionando como pivote el primer elemento del arreglo.

@@ -1,4 +1,4 @@
-# Guía para preparar Informe 5
+# Guía para preparar Informe 5 (Bucket Sort)
 
 1. Implemente la función BucketSort.
     * Utilizar en la implementacion InsertionSort para ordenar los buckets.
