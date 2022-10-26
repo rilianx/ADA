@@ -2,7 +2,7 @@
 
 1. Implemente el **algoritmo de Prim** o el **algoritmo de Kruskal** segun le corresponda.
     - Considerar que estos algoritmos son de tipo **voraz** (greedy).
-    - Debe retornar las conecciones (edges) y su peso.
+    - Debe retornar las conexiones (edges) y su peso.
 
 2. 	Incorpore la opción **visualize** de tipo boolean.
 	- En caso de que su valor sea True, se deberá mostrar visualmente el grafo (camino) resultante trabajando mediante una libreria externa como lo es **networkx**.
