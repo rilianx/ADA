@@ -1,6 +1,6 @@
 ## Guia para trabajar en Informe 11 (Topological Sorting)
 
-1. Implemente dos variantes para el algoritmo de **orden topologico** en un grafo sin ciclos.
+1. Implemente dos variantes para el algoritmo de **orden topólogico** en un grafo sin ciclos.
     - Variante 1: Usando DFS postorden iterativo (Depth First Search).
     - Variante 2: Usando DFS postorden recursivo.
 
