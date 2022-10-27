@@ -1,22 +1,20 @@
 ## Guia para trabajar en Informe 11 (Topological Sorting)
 
-1. Implemente un algoritmo recursivo para obtener el **orden topologico** de un grafo sin ciclos.
-    - Implemente teniendo en cuenta DFS (Depth First Search).
+1. Implemente dos variantes para el algoritmo de **orden topologico** en un grafo sin ciclos.
+    - Variante 1: Usando DFS postorden iterativo (Depth First Search).
+    - Variante 2: Usando DFS postorden recursivo.
 
-2. Implemente mediante un algoritmo DFS-recursivo.
-    - Cuente la cantidad de llamadas recursivas que realiza el algoritmo.
-
-3. 	Incorpore la opción **visualize** de tipo boolean.
+2. 	Incorpore la opción **visualize** de tipo boolean.
 	- En caso de que su valor sea True, se deberá mostrar visualmente el grafo en el que se está trabajando mediante una libreria externa como lo es **networkx**.
 
-4. Incorpore la opción **verbose** para poder ver, de **manera amigable e intuitiva** la ejecución paso a paso.
+3. Incorpore la opción **verbose** para poder ver, de **manera amigable e intuitiva** la ejecución paso a paso.
 
-5. Demuestre por qué el algoritmo es correcto.
+4. Demuestre por qué el algoritmo es correcto.
     - Mediante induccion, o el metodo que estime conveniente.
 
-6. Analice el **tiempo de ejecución** del algoritmo.
+5. Analice el **tiempo de ejecución** del algoritmo.
 
-7. Realice experimentos para:
+6. Realice experimentos para:
     - Observar lo que ocurre con el tiempo del algoritmo a medida que aumenta la cantidad de nodos del grafo.
     - Invente algun experimento.
 
