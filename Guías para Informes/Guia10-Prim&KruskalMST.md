@@ -22,6 +22,37 @@
 
 Puede guiarse con el [tutorial de grafos con networkx](https://github.com/rilianx/ADA/blob/main/Guías%20para%20Informes/mini-tutoriales/Grafos_con_networkx.ipynb) para mostrar los árboles de manera visual. **No es obligatorio utilizar exactamente esta librería**, es libre de utilizar cualquier librería que estime conveniente y que permita visualizar los árboles.  
 
+### Generador de instancias:
+
+```py
+import random
+
+# Crea un grafo de tipo array de arrays
+# que contiene [i, j, peso]
+# siendo i y j los nodos conectados
+def graph_instance_creator(V):
+  graph = []
+  for i in range(V):
+    for j in range(i+1, V):
+      graph.append([i, j, random.randint(1, 500)])
+  
+  return graph
+```
+
+### Usando la libreria networkx:
+
+```py
+import networkx as nx
+
+# Recibe un grafo de tipo array
+# Retorna un nx.Graph de la libreria networkx
+def graph_to_nxgraph(graph):
+  nxgraph = nx.Graph()
+  for i in graph:
+    nxgraph.add_edge(i[0], i[1], weight=i[2])
+  return nxgraph
+```
+
 Recuerde revisar los [criterios de evaluación para informes](https://github.com/rilianx/ADA/blob/main/Gu%C3%ADas%20para%20Informes/CriteriosEvaluacion.md).
 
 Al terminar su informe súbalo a su repositorio Github **ADA-Informes** en su cuenta personal.
