@@ -24,8 +24,10 @@
 Se recomienda utilizar el siguiente código para generar las instancias. En caso de que estime conveniente, puede utilizar su propio generador de instancias.
 
 ```py
-import math
 import numpy as np
+
+def dist(c1, c2):
+   return np.sqrt( (c1[0]-c2[0])**2 + (c1[1]-c2[1])**2 )    
 
 def generate_tsp_instance(n: int):
     """
@@ -42,7 +44,7 @@ def generate_tsp_instance(n: int):
         instance.append([])
         for j, coord2 in enumerate(cities):
             if i != j:
-                instance[i].append(math.dist(coord1, coord2))
+                instance[i].append(dist(coord1, coord2))
             else:
                 instance[i].append(0)
           
