@@ -1,0 +1,23 @@
+### Lista de cotejo para evaluar el reporte de análisis de algoritmos
+
+1. **Descripción de los problemas**
+   - [ ] ¿Se define claramente el problema que se está estudiando?
+   - [ ] ¿Se describen las entradas del problema de forma clara, especificando el tipo de datos y el tamaño de la entrada como una variable?
+   - [ ] ¿Se definen las salidas esperadas del problema?
+   - [ ] ¿Se mencionan y explican todas las restricciones asociadas al problema?
+   - [ ] ¿Se proporcionan ejemplos específicos de entradas y sus correspondientes salidas para ilustrar el problema?
+   - [ ] ¿Son los ejemplos claros y suficientes para entender el problema?
+
+2. **Descripción de algoritmos**
+   - [ ] ¿Se describen los algoritmos propuestos de manera clara y comprensible?
+   - [ ] ¿Se explica el funcionamiento del algoritmo paso a paso?
+   - [ ] ¿Se utilizan términos accesibles y se evitan tecnicismos innecesarios?
+   - [ ] ¿Se proporcionan ejemplos que muestran cómo funciona el algoritmo con diferentes entradas?
+   - [ ] ¿Se mencionan las posibles variantes o mejoras del algoritmo, si las hay?
+
+3. **Análisis de complejidad**
+   - [ ] ¿Se realiza un análisis detallado de la complejidad temporal del algoritmo?
+   - [ ] ¿Se realiza un análisis detallado de la complejidad espacial del algoritmo?
+   - [ ] ¿Se justifican adecuadamente las razones detrás de la complejidad mencionada?
+   - [ ] ¿Se comparan las complejidades de diferentes algoritmos si se presentan múltiples soluciones?
+   - [ ] ¿Se incluyen ejemplos o casos específicos que respalden el análisis de complejidad?
