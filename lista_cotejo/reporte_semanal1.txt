@@ -1,17 +1,16 @@
 ### Lista de cotejo para evaluar el reporte
 
-1. **Descripción de los problemas**
-    - [ ]  ¿Se define claramente el problema que se está estudiando?
-    - [ ]  ¿Se describen las entradas del problema de forma clara, especificando el tipo de datos y el tamaño de la entrada como una variable?
-    - [ ]  ¿Se definen las salidas esperadas del problema?
-    - [ ]  ¿Se mencionan y explican todas las restricciones asociadas al problema?
-    - [ ]  ¿Se proporcionan ejemplos específicos de entradas y sus correspondientes salidas para ilustrar el problema?
-    - [ ]  ¿Son los ejemplos claros y suficientes para entender el problema?
-2. **Descripción de algoritmos**
-    - [ ]  ¿Se describen los algoritmos propuestos de manera clara y comprensible?
-    - [ ]  ¿Se explica el funcionamiento del algoritmo paso a paso?
-    - [ ]  ¿Se utilizan términos accesibles y se evitan tecnicismos innecesarios?
-    - [ ]  ¿Se proporcionan ejemplos que muestran cómo funciona el algoritmo con diferentes entradas?
-3. **Análisis de complejidad**
-    - [ ]  ¿Se realiza un análisis detallado de la complejidad temporal del algoritmo?
-    - [ ]  ¿Se justifican adecuadamente las razones detrás de la complejidad mencionada?
+1. **Descripción de los problemas (10 ptos)**
+    - [ ]  Definición clara del problema que se está estudiando **(2 ptos)**
+    - [ ]  Descripción clara de las entradas del problema, especificando el tipo de datos y el tamaño de la entrada como una variable **(2 ptos)**
+    - [ ]  Definición de las salidas esperadas del problema **(2 ptos)**
+    - [ ]  Mención y explicación de todas las restricciones asociadas al problema **(2 ptos)**
+    - [ ]  Provisión de ejemplos específicos de entradas y sus correspondientes salidas para ilustrar el problema **(2 ptos)**
+2. **Descripción de algoritmos (10 ptos)**
+    - [ ]  Descripción clara y comprensible de los algoritmos propuestos **(3 ptos)**
+    - [ ]  Explicación del funcionamiento del algoritmo paso a paso **(3 ptos)**
+    - [ ]  Uso de términos accesibles y evitación de tecnicismos innecesarios **(2 ptos)**
+    - [ ]  Provisión de ejemplos que muestran cómo funciona el algoritmo con diferentes entradas **(2 ptos)**
+3. **Análisis de complejidad (10 ptos)**
+    - [ ]  Análisis detallado de la complejidad temporal del algoritmo **(5 ptos)**
+    - [ ]  Justificación adecuada de las razones detrás de la complejidad mencionada **(5 ptos)**
